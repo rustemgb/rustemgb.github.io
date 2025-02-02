@@ -7,8 +7,16 @@ body {
   
     width: 980px;
     margin: 0 auto;
-    text-align: center;
 }
+
+.box {
+    width: 300px;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    text-align: center;
+  }
   
 h1 {
     text-align: center;
