@@ -17,6 +17,7 @@ body {
 }
   
 .profile-card {
+    margin: 500px;
     width: 300px;
     padding: 20px;
     background-color: #fff;
